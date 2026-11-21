@@ -65,4 +65,17 @@ dkms.conf
 
 # Built Visual Studio Code Extensions
 *.vsix
+# ESP-IDF build output
+build/
 
+# ESP-IDF temporary files
+sdkconfig.old
+sdkconfig.backup
+*.log
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE
+.idea/
