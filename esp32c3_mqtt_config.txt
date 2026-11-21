@@ -1,0 +1,4 @@
+# ESP32-C3 MQTT configuration
+BrokerURI=mqtts://befb85156c3248e0b71cfd0d1ee6da3b.s1.eu.hivemq.cloud:8883
+Username=Paul.Dinh
+Password=123456789

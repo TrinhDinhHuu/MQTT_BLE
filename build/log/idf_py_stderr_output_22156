@@ -1,0 +1,1 @@
+ninja: error: 'C:/Users/dinhh/workspace/MQTT_BLE/partitions.csv', needed by 'partition_table/partition-table.bin', missing and no known rule to make it
